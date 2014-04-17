@@ -1,3 +1,6 @@
+PRINT-GUIDE
+===========
+
 This is a guide on how to print a booklet for cheap/ free. 
 The advice is most applicable to students at The Glasgow School of Art.
 You can write a version yourself that is applicable to designers working in the same context as you. To distribute print out and leave in the printers in your school or area. 
